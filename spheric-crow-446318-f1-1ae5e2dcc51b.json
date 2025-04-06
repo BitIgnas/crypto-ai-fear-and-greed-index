@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "spheric-crow-446318-f1",
+  "private_key_id": "1ae5e2dcc51b8a742d1220b3627ce7b14b2535c4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDnLYL/Sj9Snpp3\n5t12HUeyG6gb32GiMKibbOGJ5Qag96LtBWRaTk5Q4TLXpduL17vLnprw5tvcDoJ4\nCyXcRlHPdsRWHBdtuWK/1UNXIdIj+pQPxLuAKYGG/200sbZMiAZKuxuqJE+LIFfh\ncADrHrdHFzD4foLG/4VzZrsjB+eZQFEUuiZYT03KbPSe2wPyOh3TVNy4o4Jpt42J\nAi+xBuruQAxe1XAEYPmzx8YVeda2D2HSH8JwZyJeidQZhsBQjLBC9y6w7vpJCvW/\n7leIkT0CC+la/LjOpMaESDZoJEpIH4/STKDvUt+dIyET5q/w844djDGzDoP8ibIR\nOBoVDw5BAgMBAAECggEANmoOBY0ybn4KmeJrilvF/nRoE3d3Abg2V68/Pzf7YXQo\nk2XLgz4fTQZU81GE5du3xmvkyINuiNOZfiwRk1Gx/AVWnXYrRZZ3WfQWz7GURwe6\nRiPmhno+lMoWqGqUIFt8L6bvEhNN7c+FH/k/Hhiyxzb8PeF5YuHORaWOsuYva3C3\nnoiky+pmCZKd2Xo1Sv8t6zCBTok3XJeUvPAVBNJCzjQ90luOco5S+KP291tUaB3+\nSWPnrNFQXY3DPYQWOAD7jrU6w/as6qpAunIcjVgHkZUVgOOfKd0avaKRiasIs/sc\nz9+q+M0q3mxl9Ix+C9ee4U0hPbL08erdqGOfEnRhqQKBgQD0gIfemqs3DGOYBAUs\nvhSGxjFdBtEBd+UXLxD6Phlo/lnog3W5Gb8VlbyX9F8sN/o4Uu+1effe+/pUXPwz\n6EPw4O0xjJzIGemXBx8XrMOpdgZdn/SzXQj3QTQ67ZUhzoSJzOD7iMVwPTuTc55O\nMbGyAoLB5q6HS7BOKAaJqtxcOwKBgQDyDJMkUSdkYDqPWhRK8/K6BzlDgKh8ZpJI\nVyP9xeqgTIRTm8HyF/3FVWPnzze+tv+D2ikHm2BGSpg/hkCanIoj/TnKzhFTprr0\nGgtf3Q38ASyPYcvHfDmnljt1t1ro5eByAeTxssGMydQH4o6i/pc23e6+DF0FvMSN\ntdwKY7OjswKBgCxa2MsgQek1nSepqwqn3O9qKvBWWTor9upSxoCvHUr3wXW1y3ht\n3EVdKZ5jXZSW/xSSrxu76aSRD6OYTsRX4WNkWoM/n/2I/eBBEXnpBIHMgHEhoHGd\ncg/wyznZedFtNowNF89py2+GHDWupsxGpZbGb9QfNhAjQfObvTviPCGbAoGBAJuP\nF1XEzkNFUP1mUBpns7x4/gVy/1WL+kGBt4DWHNdOtdCiDsBPSOn02hNV6qaoJ4kO\nwUXBRtuF/1j8KDL1nhZJHUZIr3wKcKaGwn6mq+EkxAWWPYgEP22EMMyTvVpmupuq\nuf/X+WpJH/q9URxR8M7zTQdZHMOeMNg+Y59NulrfAoGAcnECC7nEJdBv7FJCjHkB\nVZDdb+ZeAvkiNhMXtOhVYW1fqa7WkrFQ33MbRY2ESFUylPBJe1tAqq0ClgBbtfSD\nTeufZ3iw+trlQV6Y/5aUxZLigh4dYtGpizG2xM4dyG2b+tCEQCySQH9Fa/aO0us0\nBabW3dtP6rk5dEXc6weFt+8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dynamic-dca-app-service-ac-608@spheric-crow-446318-f1.iam.gserviceaccount.com",
+  "client_id": "106519250171830935263",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dynamic-dca-app-service-ac-608%40spheric-crow-446318-f1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
